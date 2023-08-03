@@ -5,7 +5,7 @@ public class HelloWorld {
                 System.out.println("Good Evening");
                                 System.out.println("Sun is in the sky");
                 System.out.println("Everything is bright");
-                 System.out.println("Night is dark");
+                 System.out.println("Good Night");
 
     }
 }
