@@ -6,6 +6,10 @@ public class HelloWorld {
                                 System.out.println("Sun is in the sky");
                 System.out.println("Everything is bright");
                  System.out.println("Good Night");
+                 System.out.println("Dinesh good morning bro"); 
+                  System.out.println("Dalavi how are you");
+
+            
 
     }
 }
